@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="u_name">John Deo</string>
+    <string name="text_desc">Lorem Ipsum is simply dummy text of the printing and typesetting
+       \n\n Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+        \n when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+       \n\n It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
+       \n\n It was popularised in the 1960s with the release of Letra set sheets containing Lorem Ipsum passages,
+        \n\n more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Contrary to popular belief, Lorem Ipsum is not simply random text.
+        \n It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+       \n Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words,
+       \n consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature,
+        \ndiscovered the undoubtable source.
+        \n\nLorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero,
+        \nwritten in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.
+        \nThe first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+        \n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        \nSections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form,
+        \naccompanied by English versions from the 1914 translation by H. Rackham.
+        \n\n</string>
+    <string name="what_is_your_nick_name">What is your Nick Name?</string>
+    <string name="done">Done</string>
+</resources>
